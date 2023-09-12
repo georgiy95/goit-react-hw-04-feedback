@@ -1,7 +1,9 @@
-.section {
+/* .section {
   padding-left: 20px;
-}
+} */
 
 .title {
-  color: brown;
+  color: #0004ff;
+  padding: 2px;
+  font-size: 40px;
 }

@@ -1,11 +1,12 @@
 .list {
   list-style: none;
   padding: 0;
+  margin-bottom: 20px;
 }
-.item {
+/* .item {
   margin: 10px;
-}
+} */
 .text {
-  font-size: 15px;
-  font-weight: 500;
+  color: #0004ff;
+  font-size: 25px;
 }
