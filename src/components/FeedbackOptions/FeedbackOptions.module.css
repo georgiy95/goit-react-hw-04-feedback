@@ -1,0 +1,27 @@
+.buttonList {
+  list-style: none;
+  display: flex;
+  padding: 0;
+
+  align-items: center;
+}
+.buttonItem {
+  margin: 10px;
+}
+.button {
+  padding: 5px;
+  font-size: 20px;
+  font-weight: 500;
+  width: 100px;
+  background-color: rgb(100, 100, 217);
+  color: #fff;
+  cursor: pointer;
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
+    0px 2px 1px rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+
+  outline: none;
+}
+.button:hover {
+  background-color: rgb(80, 80, 189);
+}
